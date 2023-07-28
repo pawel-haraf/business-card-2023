@@ -1,0 +1,9 @@
+html {
+	block-size: border-box;
+}
+
+*,
+*:before,
+*:after {
+	block-size: inherit;
+}
